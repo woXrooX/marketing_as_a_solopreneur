@@ -1,17 +1,23 @@
-# MaaS
-Marketing as a solopreneur
+# MaaS - Marketing as a solopreneur
 
-# YouTube
+## YouTube
 - Shorts
 - Devlogs
 - Launch contents
 
-# Connexion, Reddit, Twitter/X, LinkedIn
+## Twitter/X, LinkedIn
 - Build In Public
 - Blogs
 - Articles
 - Q/As
 - Networking
 
-# ProductHunt
-- Launching
+## Reddit
+- r/SideProject
+- r/Entrepreneur
+- r/SaaS
+
+# Launching platforms
+1. https://www.producthunt.com/
+2. https://news.ycombinator.com/
+3. https://betalist.com/
