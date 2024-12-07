@@ -1,4 +1,4 @@
-# MaaS - Marketing as a solopreneur
+# MaaS = Marketing as a solopreneur
 
 ## YouTube
 - Shorts
@@ -21,3 +21,6 @@
 1. https://www.producthunt.com/
 2. https://news.ycombinator.com/
 3. https://betalist.com/
+4. https://www.saasworthy.com
+5. https://appsumo.com
+7. https://www.indiehackers.com
